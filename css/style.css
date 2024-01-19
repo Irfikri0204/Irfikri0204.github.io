@@ -1,4 +1,12 @@
-.jumbotron {
+.wrap{
+    background-color: rgb(221, 221, 221);
+}
+.bungkus-profil{
     padding: 2rem 1rem;
+}
 
+@media screen and (max-width: 600px){
+    .foto{
+        text-align: center;
+    }
 }
