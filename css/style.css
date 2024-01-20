@@ -1,12 +1,16 @@
-.wrap{
-    background-color: rgb(221, 221, 221);
-}
-.bungkus-profil{
+.bungkus-profil {
+    background-color: #c8d1df;
     padding: 2rem 1rem;
+    height: 60vh;
 }
 
-@media screen and (max-width: 600px){
-    .foto{
-        text-align: center;
-    }
+.deskripsi {
+    padding: 2rem 1rem;
+    background-color: rgb(186, 191, 252);
 }
+
+.deskripsi .skill p {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 991px)and (min-width:576) {}
